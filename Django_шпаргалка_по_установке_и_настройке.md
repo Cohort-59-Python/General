@@ -33,6 +33,7 @@
         2. Выполним последовательно следующие две инструкции: 
         
         >>> import django
+       
         >>> print(django.get_version())
         
         Консольный выведет примерно следующий текст:
@@ -42,6 +43,7 @@
         Type "help", "copyright", "credits" or "license" for more information.
         
         >>> import django
+        
         >>> print(django.get_version())
         4.1 
         
